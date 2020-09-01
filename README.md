@@ -7,6 +7,7 @@ Github Repo
 
 Documentation
 - https://trax-ml.readthedocs.io/en/latest/
+- https://jax.readthedocs.io/en/latest/index.html
 
 
 Installation
