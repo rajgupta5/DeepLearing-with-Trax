@@ -5,6 +5,9 @@ Trax is an end-to-end library for deep learning that focuses on clear code and s
 Github Repo
 - https://github.com/google/trax
 
+Documentation
+- https://trax-ml.readthedocs.io/en/latest/
+
 
 Installation
 - !pip install -q -U trax
