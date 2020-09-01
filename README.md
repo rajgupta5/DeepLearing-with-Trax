@@ -1,4 +1,4 @@
-# DeepLearing-with-Trax
+# DeepLearning-with-Trax
 
 Trax is an end-to-end library for deep learning that focuses on clear code and speed.
 
